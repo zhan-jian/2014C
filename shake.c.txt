@@ -10,7 +10,7 @@ int main()
  srand(time(0));
  n=1+rand()%mcount;
 
- printf(" ¹§Ï²µÚ :%d ×é\n",n); 
+ printf(" Welcome :%d \n",n); 
 
  system("pause");
  return 0;
